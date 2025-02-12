@@ -1,0 +1,9 @@
+.signatories {
+  margin-top: 2em;
+  padding-top: 2em;
+  border-top: 1px solid #ccc;
+}
+
+.signatory {
+  margin-bottom: 0.5em;
+}

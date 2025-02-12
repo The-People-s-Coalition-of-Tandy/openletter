@@ -1,0 +1,26 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "static/uploads"
+public_folder: "/static/uploads"
+
+collections:
+  - name: "letter"
+    label: "Letter Content"
+    folder: "_letter"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Content", name: "content", widget: "markdown"}
+    
+  - name: "signatories"
+    label: "Signatories"
+    folder: "_signatories"
+    create: true
+    sortable_fields: ['order']
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Order", name: "order", widget: "number"}

@@ -212,7 +212,7 @@ signatories:
   - name: Omer Barash
     description: Composer, New York
   - name: Netta Shahar
-    description: Composer, reboot Neue musik Berlin
+    description: Composer, and Vocal Performer, Berlin
   - name: Eli Korman
     description: Composer, Jerusalem
   - name: Eres Holz

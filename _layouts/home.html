@@ -1,14 +1,29 @@
 ---
 layout: default
 ---
-{% assign letter = site.letter.first %}
-{{ letter.content }}
 
-<div class="signatories">
-  {% assign sorted_signatories = site.signatories | sort: 'order' %}
-  {% for signatory in sorted_signatories %}
-    <div class="signatory">
-      {{ signatory.name }}, {{ signatory.title }}{% if signatory.location %}, {{ signatory.location }}{% endif %}
-    </div>
-  {% endfor %}
-</div> 
+{% assign letter = site.letter | first %}
+
+<article class="letter">
+  <h1>{{ letter.title }}</h1>
+  
+  <div class="letter-content">
+    {{ letter.content | markdownify }}
+  </div>
+
+  {% if letter.signatories %}
+    <section class="signatories">
+      <h2>Signatories</h2>
+      <ul>
+      {% for signatory in letter.signatories %}
+        <li>
+          <strong>{{ signatory.name }}</strong>
+          {% if signatory.description %}
+            <span class="description">{{ signatory.description }}</span>
+          {% endif %}
+        </li>
+      {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+</article>

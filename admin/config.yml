@@ -6,21 +6,19 @@ media_folder: "static/uploads"
 public_folder: "/static/uploads"
 
 collections:
-  - name: "letter"
-    label: "Letter Content"
-    folder: "_letter"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Content", name: "content", widget: "markdown"}
-    
-  - name: "signatories"
-    label: "Signatories"
-    folder: "_signatories"
-    create: true
-    sortable_fields: ['order']
-    fields:
-      - {label: "Name", name: "name", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
-      - {label: "Order", name: "order", widget: "number"}
+  - name: "open_letter"
+    label: "Open Letter"
+    files:
+      - name: "letter"
+        label: "Open Letter Content"
+        file: "_letter/open-letter.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string", hint: "The title of the open letter"}
+          - {label: "Letter Content", name: "content", widget: "markdown", hint: "The main content of the open letter"}
+          - label: "Signatories"
+            name: "signatories"
+            widget: "list"
+            hint: "Add people who have signed this letter"
+            fields:
+              - {label: "Name", name: "name", widget: "string"}
+              - {label: "Title/Description", name: "description", widget: "string", hint: "Position, organization, or other relevant information"}

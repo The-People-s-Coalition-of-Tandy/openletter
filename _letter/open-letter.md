@@ -20,7 +20,7 @@ letterContent: >-
   We write these words because we cannot remain silent in the face of such suffering and destruction. As artists, as human beings, and as people who are able to envision an alternative route, we feel an internal, moral obligation to speak out. We insist that another path is possible. By voicing this position, we hope to contribute to the growing chorus of those demanding a change in approach, a change in direction, toward a future of coexistence.
 signatories:
   - name: Chaya Czernowin
-    description: composer, Walter Bigelow Rosen Professor of Music at Harvard
+    description: Composer, Walter Bigelow Rosen Professor of Music at Harvard
       University, Boston
   - name: Ruben Seroussi
     description: composer, Professor, tel Aviv University Buchmann-Mehta School of

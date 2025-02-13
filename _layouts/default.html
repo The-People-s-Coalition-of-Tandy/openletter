@@ -12,14 +12,16 @@
   <meta name="description" content="{{ page.description | default: site.description | escape }}" />
 
   <!-- Open Graph / Facebook -->
-  <meta property="og:type" content="website" />
-  <meta property="og:url" content="{{ page.url | absolute_url }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{{ site.url }}" />
   <meta property="og:title" content="{{ page.title | default: site.title | escape }}" />
   <meta property="og:description" content="{{ page.description | default: site.description | escape }}" />
-  <meta property="og:image" content="{{ site.url }}{{ '/static/images/social-preview.jpg' | relative_url }}" />
+  <meta property="og:image" content="{{ site.url }}{{ '/static/images/social-preview-square.jpg' | relative_url }}" />
+  <meta property="og:image:secure_url" content="{{ site.url }}{{ '/static/images/social-preview-square.jpg' | relative_url }}" />
   <meta property="og:site_name" content="{{ site.title | escape }}" />
   <meta property="og:image:width" content="1200" />
-  <meta property="og:image:height" content="630" />
+  <meta property="og:image:height" content="1200" />
+  <meta property="og:image:alt" content="Israeli Musicians for Peace - Open Letter" />
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary_large_image" />

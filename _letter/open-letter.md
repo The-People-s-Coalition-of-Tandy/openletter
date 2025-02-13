@@ -221,4 +221,6 @@ signatories:
     description: Musician
   - name: Lior Eytan,
     description: " Composer, Haifa."
+  - name: "Shoham Sakana Manela, "
+    description: musician and poet, Israel/NY
 ---

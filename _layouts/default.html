@@ -16,7 +16,7 @@
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
   <meta property="og:title" content="{{ page.title | default: site.title | escape }}" />
   <meta property="og:description" content="{{ page.description | default: site.description | escape }}" />
-  <meta property="og:image" content="{{ '/static/images/social-preview.jpg' | absolute_url }}" />
+  <meta property="og:image" content="{{ site.url }}{{ '/static/images/social-preview.jpg' | relative_url }}" />
   <meta property="og:site_name" content="{{ site.title | escape }}" />
 
   <!-- Twitter -->
@@ -24,7 +24,7 @@
   <meta name="twitter:url" content="{{ page.url | absolute_url }}" />
   <meta name="twitter:title" content="{{ page.title | default: site.title | escape }}" />
   <meta name="twitter:description" content="{{ page.description | default: site.description | escape }}" />
-  <meta name="twitter:image" content="{{ '/static/images/social-preview.jpg' | absolute_url }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ '/static/images/social-preview.jpg' | relative_url }}" />
 
   <!-- Additional SEO -->
   <link rel="canonical" href="{{ page.url | absolute_url }}" />

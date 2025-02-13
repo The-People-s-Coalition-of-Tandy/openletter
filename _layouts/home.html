@@ -12,8 +12,8 @@ layout: default
   </div>
 
   {% if letter.signatories %}
-    <section class="signatories">
-      <h2>Signed</h2>
+  <section class="signatories">
+    <h2 data-count="({{ letter.signatories | size }} signatures)">Signed</h2>
       <ul>
       {% for signatory in letter.signatories %}
         <li>

@@ -20,26 +20,41 @@
 }
 
 .signatories h2 {
-  font-size: 1.2em;
+  font-size: 1.5em;
   margin-bottom: 1em;
-  color: #999;
+  font-weight: normal;
+}
+
+.signatories h2::after {
+  content: attr(data-count);
+  font-size: 0.7em;
+  color: rgba(228, 228, 228, 0.7);
+  margin-left: 0.8em;
 }
 
 .signatories ul {
   list-style: none;
   padding: 0;
-  columns: 2;
-  column-gap: 2em;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1em 2em;
 }
 
 .signatories li {
-  margin-bottom: 1em;
+  margin-bottom: 0.8em;
   break-inside: avoid;
+}
+
+.signatories strong {
+  display: block;
+  font-size: 1.1em;
+  margin-bottom: 0.2em;
+  font-weight: normal;
 }
 
 .description {
   display: block;
   font-size: 0.9em;
-  color: #999;
-  margin-top: 0.2em;
+  color: rgba(228, 228, 228, 0.7);
+  line-height: 1.3;
 }

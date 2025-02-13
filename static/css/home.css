@@ -1,5 +1,5 @@
 .letter {
-  max-width: 38em;
+  max-width: 42em;
   margin: 2em auto;
   line-height: 1.6;
 }
@@ -14,7 +14,7 @@
 }
 
 .signatories {
-  margin-top: 4em;
+  /* margin-top: 2em; */
   padding-top: 2em;
   border-top: 1px solid rgba(228, 228, 228, 0.2);
 }
@@ -57,4 +57,16 @@
   font-size: 0.9em;
   color: rgba(228, 228, 228, 0.7);
   line-height: 1.3;
+}
+
+header {
+  text-align: center;
+  margin: 4em auto 3em;
+}
+
+header h1 {
+  font-size: 3em;
+  line-height: 1.2;
+  margin: 0;
+  font-weight: normal;
 }

@@ -3,11 +3,14 @@
   src: url('/static/fonts/redaction_regular.woff2') format('woff2');
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
 body {
   background-color: #212121;
   color: #e4e4e4;
-  max-width: 600px;
+  max-width: 42em;
   margin: 0 auto;
+  padding: 0 1rem;
   /* font-family: 'Redaction', sans-serif; */
   font-family: 'Inter', sans-serif;
 }

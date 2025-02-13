@@ -20,11 +20,12 @@ letterContent: >-
   We write these words because we cannot remain silent in the face of such suffering and destruction. As artists, as human beings, and as people who are able to envision an alternative route, we feel an internal, moral obligation to speak out. We insist that another path is possible. By voicing this position, we hope to contribute to the growing chorus of those demanding a change in approach, a change in direction, toward a future of coexistence.
 
 
-  Add your name here: <https://forms.gle/PVKC5xHQUNE4aFEk7>\
+  Add your name here: <https://forms.gle/PVKC5xHQUNE4aFEk7>
 
-  \
 
-  **Organizations to Follow or Support. These organizations have been consistently working over years towards peace**\
+  _﻿\_\_\_\_\_\_﻿\_\_\_\_\_\_﻿\_\_\_\_\_\_﻿\_\_\_\_\_\_﻿\_\_\_\_\_\_﻿\_\_\_\_\_\_﻿\_\_\_\_\_\_﻿\_\_\_\_\_\_﻿\_\_\_\_\_\_﻿\_\_\_\_\_\_﻿\_\_\_\_\_\_﻿\_\_\_\_\_\_﻿\_\_\_\_\_\_﻿\_\_\_\_\_\_﻿\_\_\_\_\_\_﻿\_\_\_\_\
+
+  **Organizations to Follow/Support. These organizations have been consistently working over years towards peace** \
 
   \
 

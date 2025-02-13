@@ -20,7 +20,41 @@ letterContent: >-
   We write these words because we cannot remain silent in the face of such suffering and destruction. As artists, as human beings, and as people who are able to envision an alternative route, we feel an internal, moral obligation to speak out. We insist that another path is possible. By voicing this position, we hope to contribute to the growing chorus of those demanding a change in approach, a change in direction, toward a future of coexistence.
 
 
-  Add your name here: <https://forms.gle/PVKC5xHQUNE4aFEk7>
+  Add your name here: <https://forms.gle/PVKC5xHQUNE4aFEk7>\
+
+  \
+
+  **Organizations to Follow or Support. These organizations have been consistently working over years towards peace**\
+
+  \
+
+  **\* [Standing Together](https://www.standing-together.org/en)**- Progressive grassroots movement organizing Jewish and Palestinian citizens of Israel against the occupation and for peace, equality, and social justice.\
+
+  [Donate Here](https://www.standing-together.org/en/donate-en)
+
+
+  \*﻿ [+972Magazine-](https://www.972mag.com/) Independent, nonprofit media organization of Israeli and Palestinian journalists.\
+
+  [D﻿onate Here](https://www.972mag.com/members/?=top_button)
+
+
+  \*﻿ [Youth against Settlements](https://www.hebronfriends.org/youth_against_settlements)- nonviolent direct action group, which seeks to end the building and expanding of illegal Israeli settlements through non-violent popular struggle and civil resistance.\
+
+  \
+
+  *﻿ [Parents Circle Families Forum (PCFF](https://www.theparentscircle.org/en/about_eng-2/))-a joint Israeli-Palestinian organization of over 700 families, all of whom have lost an immediate family member to the ongoing conflict. \
+
+  [﻿Donate Here](https://urldefense.proofpoint.com/v2/url?u=https-3A__l.facebook.com_l.php-3Fu-3Dhttps-253A-252F-252Fwww.theparentscircle.org-252Fen-252Fcontribution-5Feng-252F-253Ffbclid-253DIwZXh0bgNhZW0CMTAAAR3IPJlrRJgHDaBkgNxVoCerJlt3x3fvrbpPzvHy1XACJ-2DQialVsbY4orJI-5Faem-5Frr8Jo3SYvRE7GywQ8WZzzA-26h-3DAT26c1SwL0FTUC-5FLgikrpeVTKMzsuQeY8ueimZieRrZpauboZBiY1R-2DRbfOAB6g-2D-2DIrst3577rx1CYBW5w-2DF6A5mcXgGT1UrMODw7vJFhiT49PKE7hsu-5FSGsr8i-5FSry7j172y-5FXgBfYEpUynzkQE-26-5F-5Ftn-5F-5F-3DR-5D-2DR-26c-5B0-5D-3DAT2StZ0JGJVSRJsmuNXrmlHxolhXuteCe-2DE1KNVqfnUfXddwogANKISh9ElPeVYOMbD5ihcj0dA5jC0aLjBfQS1e31lxkWAYCGOxm4PoQXSo98KN122V5p-2DLjNAbjB96isk6Gk2e-2D4vXkjiusufToW-2Dy&d=DwMFaQ&c=009klHSCxuh5AI1vNQzSO0KGjl4nbi2Q0M1QLJX9BeE&r=svDzNZVy9Xoi7QI2yl2pi3Urcjpe2ftADEkc1oDDka8&m=59FZr_uzfZW3xX86-CaAMO1xwi6S5Nh2YAHEVWYY0qdusSZbIGxbsx4_8SGObM59&s=ttugIaFKup7I0Gkm8Syb477kmOgEFpuDL6V3oaxU0Fw&e=)
+
+
+  \*﻿ [B’Tselem](https://www.btselem.org/about_btselem)- Israeli Information Center for Human Rights in the Occupied Territories .\
+
+  [D﻿onate Here](https://www.btselem.org/donate)
+
+
+  \* [Breaking the silence](https://www.breakingthesilence.org.il/about/organization)- Veteran soldiers who have served in the Israeli military and have taken it upon themselves to expose the public to the reality of everyday life in the Occupied Territories.\
+
+  [D﻿onate Here](https://www.breakingthesilence.org.il/donate/)
 signatories:
   - name: Chaya Czernowin
     description: Composer, Walter Bigelow Rosen Professor of Music at Harvard

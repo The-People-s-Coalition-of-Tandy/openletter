@@ -70,3 +70,19 @@ header h1 {
   margin: 0;
   font-weight: normal;
 }
+
+a {
+  color: #e4e4e4;
+}
+
+a:hover {
+  color: #e4e4e4;
+}
+
+a:visited {
+  color: #e4e4e4;
+}
+
+a:active {
+  color: #e4e4e4;
+}

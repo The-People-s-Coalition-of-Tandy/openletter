@@ -219,4 +219,6 @@ signatories:
     description: Pianist, Berlin
   - name: Ruth Sgan-Cohen
     description: Musician
+  - name: Lior Eytan,
+    description: " Composer, Haifa."
 ---

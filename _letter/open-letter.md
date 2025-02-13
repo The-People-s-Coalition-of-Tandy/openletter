@@ -23,149 +23,149 @@ signatories:
     description: Composer, Walter Bigelow Rosen Professor of Music at Harvard
       University, Boston
   - name: Ruben Seroussi
-    description: composer, Professor, tel Aviv University Buchmann-Mehta School of
+    description: Composer, Professor, Tel Aviv University Buchmann-Mehta School of
       music, Ramat Gan
-  - name: Hagar Kadima painter
-    description: lecturer emeritus Music Department, Levinsky College of Education
+  - name: Hagar Kadima 
+    description: Painter, Lecturer emeritus Music Department, Levinsky College of Education
       Ramat Hasharon
   - name: Amnon Wolman
-    description: composer and sound artist Jerusalem university Academy of music
+    description: Composer and sound artist, Jerusalem University Academy of music
       professor Northern Israel
-  - name: Zohar Eitan musicologist professor
-    description: Poet Tel Aviv University
-  - name: Ilan Volkov - Herzliya
-    description: Brussels Philharmonic Principal Guest Conductor
+  - name: Zohar Eitan
+    description: Musicologist, Professor, Poet, Tel Aviv University
+  - name: Ilan Volkov
+    description: Brussels Philharmonic Principal Guest Conductor, Herzliya
   - name: Yuval Weinberg
     description: Stuttgart Conductor, SWR Vocal Ensemble
-  - name: "Dr. Uri Kochavi "
+  - name: "Dr. Uri Kochavi"
     description: Composer
-  - name: Ilya Ram - Germany
+  - name: Ilya Ram
     description: Conductor, Music Director Designate at Chattanooga Symphony & Opera
-      and Music Director Akademische Philharmonie Heidelberg
-  - name: Imri Talgam - Pianist
-    description: The Hague, Netherlands
-  - name: Itay Talgam -Conductor and Speaker
-    description: Amsterdam, Netherlands
-  - name: Meira Asher - North Israel
-    description: Interdisciplinary, sound and radio artist
+      and Music Director Akademische Philharmonie Heidelberg, Germany
+  - name: Imri Talgam
+    description: Pianist, The Hague, Netherlands
+  - name: Itay Talgam
+    description: Conductor and Speaker, Amsterdam, Netherlands
+  - name: Meira Asher
+    description: Interdisciplinary, sound and radio artist, North Israel
   - name: Ayelet Lerman
     description: Composer and Violist
-  - name: Ram Gabay -  Musician
-    description: Tel Aviv
-  - name: "Daniel Sarid "
+  - name: Ram Gabay
+    description: Musician, Tel Aviv
+  - name: Daniel Sarid
     description: Pianist
   - name: Dr. Uri Agnon
     description: Composer and Activist, the University of Southampton
-  - name: Zohar Shafir - Musician
+  - name: Zohar Shafir
+    description: Musician, Tel Aviv
+  - name: Shai Wosner
+    description: Pianist, New York
+  - name: Ohad Fishof
     description: Tel Aviv
-  - name: Shai Wosner - Pianist
-    description: New York
-  - name: Ohad Fishof - Musician
-    description: Tel Aviv
-  - name: Rotem Nir - Conductor
-    description: Tel Aviv
-  - name: Zvi Emanuel-Marial-Opera Singer
-    description: Berlin
+  - name: Rotem Nir
+    description: Conductor, Tel Aviv
+  - name: Zvi Emanuel
+    description: Opera Singer, Berlin
   - name: Anat Nazarathy
-    description: flutist, Haifa
-  - name: Dror Feiler  Composer
-    description: Musician, Activist  Stockholm, Sweden Spokesperson for JIPF (Jews
+    description: Flutist, Haifa
+  - name: Dror Feiler  
+    description: Composer, Musician, Activist. Spokesperson for JIPF (Jews
       for Israeli Palestinian Peace)  Chairman for EJJP (European Jews for a
-      Just Peace)
-  - name: Amit Dolberg  Tel Aviv Pianist
-    description: Ensemble Meitar director
-  - name: "Dr. Bnaya Halperin Kadari "
-    description: composer sound artist Berlin
-  - name: Emmanuel Witzthum-Kibbutz Maale Hahamisha
+      Just Peace). Stockholm, Sweden
+  - name: Amit Dolberg
+    description: Ensemble Meitar director, Pianist, Tel Aviv
+  - name: "Dr. Bnaya Halperin Kadari"
+    description: Composer, Sound Artist, Berlin
+  - name: Emmanuel Witzthum
     description: Artistic Director at the Israeli Palestinian cultural house
-      FeelBeit in Jerusalem and composer
-  - name: Assaf Talmudi- Producer
-    description: Pianist and Composer, Israel
-  - name: "Dr. Eliav Kohl  "
-    description: Composer - Tel Aviv University
-  - name: Aviv Mark - Musician
-    description: Tel-Aviv
-  - name: Grisha Shakhnes - Musician
-    description: Holon
-  - name: Sharon Kantor - Musician and Writer
-    description: Tel-Aviv
-  - name: Yohana Chendler - Composer
-    description: Japan
-  - name: Assaf Shatil - Pianist and Composer
-    description: Tel Aviv
-  - name: Ilan Shay Ziblat - Composer
-    description: The Hague Netherlands
-  - name: Yifeat Ziv - Sound Artist and Singer
-    description: Tel Aviv
-  - name: Netta Spiegel - Artist
-    description: Conductor and Vocal Performer
-  - name: Oded Geizhals - Percussionist and Composer
-    description: Cologne
-  - name: Itzik Gil Avizohar - Sound Artist
-    description: Paris
-  - name: Tom Soloveitzik - Sound Artist
-    description: Paris
-  - name: Dr. Yair Klartag Composer
-    description: Jerusalem University, Tel Aviv
-  - name: Dr. Yoni Niv. Tel Aviv-Jaffa. Senior Lecturer
-    description: Department of New Music. Musrara Art School, Jerusalem.
-  - name: Dr
-    description: Yehuda Inbar Berlin  pianist
+      FeelBeit in Jerusalem and composer, Kibbutz Maale Hahamisha
+  - name: Assaf Talmudi
+    description: Producer, Pianist and Composer, Israel
+  - name: "Dr. Eliav Kohl"
+    description: Composer, Tel Aviv University
+  - name: Aviv Mark 
+    description: Musician, Tel Aviv
+  - name: Grisha Shakhnes 
+    description: Musician, Holon
+  - name: Sharon Kantor
+    description: Musician and Writer, Tel-Aviv
+  - name: Yohana Chendler
+    description: Composer, Japan
+  - name: Assaf Shatil
+    description: Pianist and Composer, Tel Aviv
+  - name: Ilan Shay Ziblat 
+    description: Composer, The Hague Netherlands
+  - name: Yifeat Ziv
+    description: Sound Artist and Singer, Tel Aviv
+  - name: Netta Spiegel 
+    description: Artist, Conductor and Vocal Performer
+  - name: Oded Geizhals
+    description: Percussionist and Composer, Cologne
+  - name: Itzik Gil Avizohar
+    description: Sound Artist, Paris
+  - name: Tom Soloveitzik
+    description: Sound Artist, Paris
+  - name: Dr. Yair Klartag
+    description: Composer, Jerusalem University, Tel Aviv
+  - name: Dr. Yoni Niv.  
+    description: Tel Aviv-Jaffa. Senior Lecturer, Department of New Music. Musrara Art School, Jerusalem.
+  - name: Dr. Yehuda Inbar
+    description: Pianist, Berlin  
   - name: Omri Abram
     description: Composer
   - name: Hed Bahack
     description: Composer, Leipzig (Germany)
-  - name: "Ehu Dar-Shaashua "
-    description: Composer Basel
+  - name: "Ehu Dar-Shaashua"
+    description: Composer, Basel
   - name: Omer Eilam
-    description: Composer Berlin
+    description: Composer, Berlin
   - name: Goni Peles
     description: PhD candidate, Bath Spa University, UK Kiryat Ata
-  - name: Tom Kellner - Musician
-    description: Academic, activist, Berlin
-  - name: Or River- Musician
-    description: Tel-Aviv
-  - name: Adaya Godlevsky - Musician
-    description: Tel Aviv
-  - name: Oren Boneh - Composer
-    description: Brussels
-  - name: Guy Ben-Ziony Viola
-    description: Professor. Robert Schumann Hochschule, Düsseldorf
-  - name: Alon Melncik- trumpet
-    description: Holon
-  - name: Aviv Mark - Musician
-    description: Tel-Aviv
-  - name: Ilan Barkani - Composer
-    description: Jerusalem
-  - name: Yohanan Chendler - Composer
-    description: Japan
-  - name: Ruth Rosenthal - Musician
-    description: Paris
+  - name: Tom Kellner
+    description: Musician, academic, activist, Berlin
+  - name: Or River 
+    description: Musician, Tel Aviv
+  - name: Adaya Godlevsky
+    description: Musician, Tel Aviv
+  - name: Oren Boneh 
+    description: Composer, Brussels
+  - name: Guy Ben-Ziony 
+    description: Viola, Professor. Robert Schumann Hochschule, Düsseldorf
+  - name: Alon Melncik 
+    description: Trumpet, Holon
+  - name: Aviv Mark 
+    description: Musician, Tel-Aviv
+  - name: Ilan Barkani
+    description: Composer, Jerusalem
+  - name: Yohanan Chendler
+    description: Composer, Japan
+  - name: Ruth Rosenthal
+    description: Musician,Paris
   - name: Sivan Magen
     description: Harpist
-  - name: Gil Luz - Musician
-    description: Tel Aviv
-  - name: Amit Landau - Viola
-    description: Tel-Aviv
-  - name: Assaf Gidron - Composer
-    description: New York
-  - name: Ilya Ram - Germany
+  - name: Gil Luz 
+    description: Musician, Tel Aviv
+  - name: Amit Landau
+    description: Viola, Tel Aviv
+  - name: Assaf Gidron 
+    description: Composer, New York
+  - name: Ilya Ram
     description: Conductor, Music Director Designate at Chattanooga Symphony & Opera
-      and Music Director Akademische Philharmonie Heidelberg
-  - name: Alon Melnick trumpetist
-    description: Holon
+      and Music Director Akademische Philharmonie Heidelberg, Germany
+  - name: Alon Melnick
+    description: trumpetist, Holon
   - name: Maya Felixbrot
-    description: musician, Amsterdam/Tel-Aviv
-  - name: Maayan Franco -Conductor
-    description: Berlin
-  - name: Maayan Tsadka -Haifa
-    description: Music faculty Haifa University and Musrara school of art and society
-  - name: Ram Orion - Musician
-    description: Tel Aviv
-  - name: Michael Seltenreich - Composer
-    description: New York
-  - name: Rhona Brosch-Nyska -Trumpet player
-    description: Tel Aviv
+    description: Musician, Amsterdam/Tel-Aviv
+  - name: Maayan Franco
+    description: Conductor, Berlin
+  - name: Maayan Tsadka
+    description: Music faculty Haifa University and Musrara school of art and society, Haifa
+  - name: Ram Orion
+    description: Musician, Tel Aviv
+  - name: Michael Seltenreich
+    description: Composer, New York
+  - name: Rhona Brosch-Nyska
+    description: Trumpet player, Tel Aviv
   - name: Noa Haran
     description: Composer, Haifa
   - name: Amit Biton
@@ -176,35 +176,35 @@ signatories:
     description: Composer, reboot Neue musik Berlin
   - name: Eli Korman
     description: Composer, Jerusalem
-  - name: Eres Holz Composer
-    description: Berlin
+  - name: Eres Holz
+    description: Composer, Berlin
   - name: Edo Frenkel
-    description: Conductor, Composer - Paris
+    description: Conductor, Composer, Paris
   - name: Amit Gur
-    description: composer and researcher, Amsterdam
+    description: Composer and researcher, Amsterdam
   - name: Dror Binder
     description: Composer, Vienna
   - name: Gilad Cohen
-    description: composer, Associate Professor of Music and Music Convener, Ramapo
+    description: Composer, Associate Professor of Music and Music Convener, Ramapo
       College of New Jersey, USA
   - name: Tom Belkind
     description: Composer, Cologne
   - name: Ronnie Reshef
     description: Composer, The Jerusalem Academy of Music and Dance
   - name: Inbar Sharet
-    description: composer, Basel
+    description: Composer, Basel
   - name: Nir Cohen-Shalit
     description: PhD. Conductor and Musicologist, Israel.
   - name: Shiri Riseman
-    description: composer, Graz
+    description: Composer, Graz
   - name: Kiki Keren-huss
-    description: composer, Jerusalem
+    description: Composer, Jerusalem
   - name: Yuval Seeberger
-    description: composer, Belgium
-  - name: Michel mayer
+    description: Composer, Belgium
+  - name: Michel Mayer
     description: Musician, Haifa
   - name: Amir Bolzman
-    description: sound artist, Jerusalem
+    description: Sound artist, Jerusalem
   - name: Yonatan Ron
     description: Composer, Seattle
   - name: Ofer Pelz

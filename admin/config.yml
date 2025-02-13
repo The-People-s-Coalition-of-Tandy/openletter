@@ -14,7 +14,7 @@ collections:
         file: "_letter/open-letter.md"
         fields:
           - {label: "Title", name: "title", widget: "string", hint: "The title of the open letter"}
-          - {label: "Letter Content", name: "content", widget: "markdown", hint: "The main content of the open letter"}
+          - {label: "Letter Content", name: "letterContent", widget: "markdown", hint: "The main content of the open letter"}
           - label: "Signatories"
             name: "signatories"
             widget: "list"

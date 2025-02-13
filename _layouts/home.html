@@ -5,15 +5,15 @@ layout: default
 {% assign letter = site.letter | first %}
 
 <article class="letter">
-  <h1>{{ letter.title }}</h1>
+  <!-- <h1>{{ letter.title }}</h1> -->
   
   <div class="letter-content">
-    {{ letter.content | markdownify }}
+    {{ letter.letterContent | markdownify }}
   </div>
 
   {% if letter.signatories %}
     <section class="signatories">
-      <h2>Signatories</h2>
+      <h2>Signed</h2>
       <ul>
       {% for signatory in letter.signatories %}
         <li>

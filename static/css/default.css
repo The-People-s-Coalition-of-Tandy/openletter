@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Redaction';
+  src: url('/static/fonts/redaction_regular.woff2') format('woff2');
+}
+
+body {
+  background-color: #212121;
+  color: #e4e4e4;
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: 'Redaction', sans-serif;
+}

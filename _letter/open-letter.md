@@ -1,6 +1,6 @@
 ---
 title: Open Letter
-content: >-
+letterContent: >-
   Dear all , Here is a call of more than 90 Israeli musicians re the situation
   in Israel and Palestine. If you would like to be added (Israeli musician
   living in Israel or abroad, as we know that for Arab or Arab Isralei or
@@ -12,11 +12,7 @@ content: >-
   Also see the first comment for organziations to follow or donate to. These organizations have been consistently working over years towards peace.
 
 
-  We will be grateful for sharing over social media widley .
-
-
-  \==================================
-
+  We will be grateful for sharing over social media widely .
 
   We are a group of Israeli composers and musicians, living both in Israel and abroad. We call for an immediate end to all Israeli violence in Gaza and the West Bank and for a dedicated, determined effort to restore what has been destroyed. The notion that violence and destruction will bring security has failed us for 75 years. Violence only breeds more violence.
 

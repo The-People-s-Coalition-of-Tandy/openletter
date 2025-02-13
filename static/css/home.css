@@ -1,9 +1,45 @@
-.signatories {
-  margin-top: 2em;
-  padding-top: 2em;
-  border-top: 1px solid #ccc;
+.letter {
+  max-width: 38em;
+  margin: 2em auto;
+  line-height: 1.6;
 }
 
-.signatory {
-  margin-bottom: 0.5em;
+.letter-content {
+  margin: 3em 0;
+  font-size: 1.1em;
+}
+
+.letter-content p {
+  margin-bottom: 1.5em;
+}
+
+.signatories {
+  margin-top: 4em;
+  padding-top: 2em;
+  border-top: 1px solid rgba(228, 228, 228, 0.2);
+}
+
+.signatories h2 {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+  color: #999;
+}
+
+.signatories ul {
+  list-style: none;
+  padding: 0;
+  columns: 2;
+  column-gap: 2em;
+}
+
+.signatories li {
+  margin-bottom: 1em;
+  break-inside: avoid;
+}
+
+.description {
+  display: block;
+  font-size: 0.9em;
+  color: #999;
+  margin-top: 0.2em;
 }

@@ -85,7 +85,7 @@ signatories:
   - name: Itay Talgam
     description: Conductor and Speaker, Amsterdam, Netherlands
   - name: Meira Asher
-    description: Interdisciplinary, sound and radio artist, North Israel
+    description: "Interdisciplinary, sound and radio artist, Human Rights Activist "
   - name: Ayelet Lerman
     description: Composer and Violist
   - name: Ram Gabay
@@ -272,4 +272,8 @@ signatories:
     description: Pianist and conductor. Lecturer, Bard College Berlin, Germany.
   - name: Noam Leor
     description: Musician, Tel Aviv
+  - name: Johnny Gandelsman
+    description: Violinist and producer, NY
+  - name: "Dana Borich "
+    description: Musician Zuerich
 ---

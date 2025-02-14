@@ -258,6 +258,12 @@ signatories:
     description: " Composer, Haifa."
   - name: "Shoham Sakana Manela, "
     description: musician and poet, Israel/NY
-  - description: Composer, Assistant Professor at Berklee College of Music, Boston
-    name: Lee Gilboa
+  - name: Eleanor Cantor
+    description: Singer UK
+  - name: Amit Buium
+    description: Composer, Jerusalem
+  - name: M. Ocher
+    description: Musician, Berlin
+  - name: Matthias Kadar
+    description: Composer, Singer, Teacher, and writer Berlin
 ---

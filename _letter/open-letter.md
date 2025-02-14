@@ -270,4 +270,6 @@ signatories:
     description: France, conductor
   - name: Benjamin Hochman
     description: Pianist and conductor. Lecturer, Bard College Berlin, Germany.
+  - name: Noam Leor
+    description: Musician, Tel Aviv
 ---

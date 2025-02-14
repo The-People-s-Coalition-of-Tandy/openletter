@@ -266,4 +266,8 @@ signatories:
     description: Musician, Berlin
   - name: Matthias Kadar
     description: Composer, Singer, Teacher, and writer Berlin
+  - name: Assaf Leibowitz
+    description: France, conductor
+  - name: Benjamin Hochman
+    description: Pianist and conductor. Lecturer, Bard College Berlin, Germany.
 ---

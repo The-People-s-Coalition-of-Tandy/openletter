@@ -258,4 +258,6 @@ signatories:
     description: " Composer, Haifa."
   - name: "Shoham Sakana Manela, "
     description: musician and poet, Israel/NY
+  - description: Composer, Assistant Professor at Berklee College of Music, Boston
+    name: Lee Gilboa
 ---

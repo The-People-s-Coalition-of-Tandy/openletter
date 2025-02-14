@@ -276,4 +276,7 @@ signatories:
     description: Violinist and producer, NY
   - name: "Dana Borich "
     description: Musician Zuerich
+  - name: "Lee Gilboa "
+    description: "Composer, Researcher, and Audio Engineer, Assistant Professor at
+      Berklee College of Music’s Electronic Production and Design department. "
 ---

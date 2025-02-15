@@ -279,4 +279,14 @@ signatories:
   - name: "Lee Gilboa "
     description: "Composer, Researcher, and Audio Engineer, Assistant Professor at
       Berklee College of Music’s Electronic Production and Design department. "
+  - name: Yael David
+    description: Beer Sheva, Israel, independent singer-songwriter and multimedia artist
+  - name: "Osnat Netzer "
+    description: professor of composition, DePaul University
+  - name: "Tsviki Moran "
+    description: "music teacher and educator Chicago, "
+  - name: "Keren Kagarlitsky "
+    description: Conductor, Vienna
+  - name: Roy Amotz
+    description: musician, Berlin
 ---

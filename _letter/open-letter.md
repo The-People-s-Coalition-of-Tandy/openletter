@@ -84,8 +84,6 @@ signatories:
     description: Pianist, The Hague, Netherlands
   - name: Itay Talgam
     description: Conductor and Speaker, Amsterdam, Netherlands
-  - name: Meira Asher
-    description: "Interdisciplinary, sound and radio artist, Human Rights Activist "
   - name: Ayelet Lerman
     description: Composer and Violist
   - name: Ram Gabay

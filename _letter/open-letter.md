@@ -287,4 +287,26 @@ signatories:
     description: Conductor, Vienna
   - name: Roy Amotz
     description: musician, Berlin
+  - name: "Roy Amotz     "
+    description: Musician
+  - name: Orri Dror
+    description: Musician and voice-over artist, Reykjavik
+  - name: Yuval Zorn
+    description: Conductor, Pianist, Artistic Director of the Israel Music Fest
+  - name: Harel Schreiber
+    description: Tel Aviv
+  - name: "Mátti Kovler "
+    description: Composer, New York
+  - name: Steven Sloane
+    description: Conductor, Professor University of the Arts Berlin
+  - name: "Neta Rudich "
+    description: Violinist, activist, mother, London UK
+  - name: Ayelet Rose Gottlieb
+    description: Montréal, QC, Canada/ vocalist and composer
+  - name: Asaf Setty
+    description: Tel Aviv
+  - name: "Adam Scheflan "
+    description: Musician, Producer Tel Aviv -Jafa
+  - name: Doron Ben-Ami
+    description: Yafa. Choir conductor and History teacher in high school.
 ---

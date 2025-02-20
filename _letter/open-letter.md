@@ -309,4 +309,12 @@ signatories:
     description: Musician, Producer Tel Aviv -Jafa
   - name: Doron Ben-Ami
     description: Yafa. Choir conductor and History teacher in high school.
+  - name: Nika Kushnir
+    description: ​Composer, accordionist, Haifa
+  - name: Alejandra Hernández
+    description: Spain. Composer
+  - name: Itamar Elis
+    description: Tuba Zuerich
+  - name: " Quami dlf"
+    description: israel, music
 ---

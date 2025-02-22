@@ -317,4 +317,6 @@ signatories:
     description: Tuba Zuerich
   - name: " Quami dlf"
     description: israel, music
+  - name: Yoav Sadeh
+    description: Paris, Composer
 ---

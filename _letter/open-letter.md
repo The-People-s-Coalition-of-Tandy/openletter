@@ -319,4 +319,6 @@ signatories:
     description: israel, music
   - name: Yoav Sadeh
     description: Paris, Composer
+  - name: Sigal Ronen
+    description: "Guitarista Givatayim "
 ---
